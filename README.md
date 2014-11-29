@@ -48,6 +48,16 @@ Evan
 4. `$ git status` to see what you're about to commit
 5. `$ git commit -m "<message>"` to commit the changes in the staging area with a message.
 
+# Exercise 1
+
+1. Create a new directory 'song-lyrics' `mkdir song-lyrics`. `cd` into that directory.  
+2. Initialize a git repository - `git init`
+3. Create a new text file with the name of your favorite song. Example: `touch blank-space.txt`
+4. Open the file in your text editor and write the first two lines of the song.
+5. On the command line, run `$ git status` to see your changes.
+6. `$ git add <filename>` to add your changes to the staging area.
+7. `$ git status` to confirm that your changes have been added to the staging area.
+
 # Commands for working with a remote repository (e.g. Github)
 
 `$ git clone <repo path or URL>` - clone a repository into a new directory.
@@ -65,3 +75,18 @@ Evan
 Rebasing
 
 Aliases
+
+# Additional Resources
+Pro Git
+
+Try git
+
+Github Training Videos
+
+Git for Ages 4 and Up (Video)
+
+Practical Git
+
+Git Branching Game
+
+Github Guides
