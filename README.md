@@ -1,15 +1,11 @@
 # GDI upcoming events
-#### Code &amp; Coffee
-October 18th. 10a - 1p
-Amante Coffee Baseline - Boulder
+#### Intermediate HTML and CSS / Intro to Responsive
+December 6th 1pm - December 7th 5pm
+Sendgrid - Boulder
 
-#### Intro to Programming with Ruby
-October 25th. 9a-5:30p
-Turing School - Denver
-
-#### Intro to HTML/CSS
-November 1 &amp; 2 1 - 5pm
-SendGrid - Boulder
+#### Introduction to Distributed Systems
+December 9th. 5:30-7:30pm
+Dojo 4 - Boulder
 
 ---
 
@@ -179,7 +175,7 @@ Nicely done!
 ---
 
 # Advanced Git
-**Aliases** - Make git commands easier and faster to type with command line shortcuts. For more: http://git-scm.com/book/en/v2/Git-Basics-Git-Aliases    
+**Aliases** - Make git commands easier and faster to type with command line shortcuts. For more: http://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
 **Rebasing** - Another way to merge that keeps your git history cleaner and more streamlined. For more: http://git-scm.com/book/en/v2/Git-Branching-Rebasing
 
 ---
