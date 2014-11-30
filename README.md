@@ -20,7 +20,7 @@ Evan
 
 ---
 
-# Initializing a Git Repository (Do this first!)
+# Initializing a Git Repository
 1. Make a directory `$ mkdir <dir name>`
 2. Move into the repository `$ cd <dir name>`
 3. Initalize a git repository `$ git init`
