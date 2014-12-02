@@ -1,13 +1,35 @@
 # GDI upcoming events
 #### Intermediate HTML and CSS / Intro to Responsive
 December 6th 1pm - December 7th 5pm
-Sendgrid - Boulder
+**Sendgrid - Boulder**
 
 #### Introduction to Distributed Systems
 December 9th. 5:30-7:30pm
-Dojo 4 - Boulder
+**Dojo 4 - Boulder**
+
+#### Holiday Happy Hour
+December 18th. 6-8pm
+**West Flanders - Boulder**
 
 ---
+#### Get involved with Girl Develop It
+January 2015
+*Date/Location: TBD*
+
+#### Class: Introduction to Javascript
+January 2015
+*Date/Location: TBD*
+
+#### Workshop: Setting your domain up using GitHub Pages
+January 2015
+*Date/Location: TBD*
+
+#### Workshop: Introduction to Agile & Scrum
+January 2015
+*Date/Location: TBD*
+
+---
+
 
 # About your Instructors
 Miles
