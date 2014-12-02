@@ -147,7 +147,7 @@ Everyone:
 STOP! Make sure your teammates have caught up before moving on to part 2.
 
 ### Part 2
-1. Partner #1, go to partner #2's gdi-haiku GitHub repo and **fork** it. Partner #2, do this to partner #3. Partner #3, do it to Partner #1.
+1. Partner #1, go to partner #2's gdi-haiku GitHub repo and **fork** it. Partner #2, do this to partner #3's repo. Partner #3, do it to Partner #1's repo.
 2. Clone the new forked repo (the url should have your username in it) to your computer.
 3. Open your partner's haiku.txt file and write line 2 of the haiku. (Make it up! 7 syllables!)
 4. Add, then commit the change to your local repo.
