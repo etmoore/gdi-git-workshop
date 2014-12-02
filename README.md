@@ -1,4 +1,6 @@
-# GDI upcoming events
+# Intro to Git & GitHub with GDI Boulder
+
+## GDI Boulder upcoming events
 #### Intermediate HTML and CSS / Intro to Responsive
 December 6th 1pm - December 7th 5pm
 **Sendgrid - Boulder**
