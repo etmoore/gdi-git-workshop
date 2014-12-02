@@ -176,6 +176,7 @@ Nicely done!
 
 # Advanced Git
 **Aliases** - Make git commands easier and faster to type with command line shortcuts. For more: http://git-scm.com/book/en/v2/Git-Basics-Git-Aliases  
+
 **Rebasing** - Another way to merge that keeps your git history cleaner and more streamlined. For more: http://git-scm.com/book/en/v2/Git-Branching-Rebasing
 
 ---
